@@ -86,6 +86,7 @@ sub langmapstatement {
 		'yacc'	=> 'yacc',
 		'asm'	=> 'Assembly',
 		'java'	=> 'Java',
+	        'groovy'=> 'Groovy',
 		'cpp'	=> 'C++',
 		'php'	=> 'PHP',
 	);
